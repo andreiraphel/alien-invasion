@@ -1,5 +1,4 @@
 import sys
-from tkinter import E
 import pygame
 from settings import Settings
 from ship import Ship
